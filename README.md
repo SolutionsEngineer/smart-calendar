@@ -1,1 +1,1 @@
-# smart-calendar
+# Smart Calendar
